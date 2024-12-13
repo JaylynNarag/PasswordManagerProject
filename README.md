@@ -2,6 +2,8 @@
 
 This is my password manager application using Tkinter, python for the COM5013 assignment. It implements the usage of the AES encryption/decryption cryptography algorithm on passwords for the login process of the application. It also implements search and sort algorithms on searching database table records by retrieving user queries or sorting by certain fields. I implemented linear search and binary search (specifically iterative instead of recursive) for the search algorithms. For the sort algorithms, I implemented merge sort, bubble sort and quick sort.
 
+The main code is in the folder titled 'PasswordManagerFinal'. All other files are just old revisions of my code.
+
 ---
 
 ## **Functionality**
